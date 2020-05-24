@@ -1,0 +1,286 @@
+body {
+    font-family: Arial, Helvetica, sans-serif;
+    font-size: 15px;
+    line-height: 1.5;
+    background-color: white;
+}
+
+.container {
+    width: 90%;
+    margin: auto;
+    overflow: hidden;
+}
+
+header {
+    background: white;
+    color: black;
+    min-height: 70;
+    border-bottom: white 3px solid;
+}
+
+header ul {
+    padding: 0px;
+    margin: 0px;
+}
+
+header li {
+    display: inline;
+    padding: 0 20px;
+}
+
+header .logo {
+    float: left;
+}
+
+#logo h1 {
+    margin: 0px;
+}
+
+.container nav {
+    float: right;
+    margin: 10px 180px;
+    margin-top: 40px;
+}
+
+.container nav ul a {
+    text-decoration: none;
+    color: black;
+}
+
+.container button {
+    float: right;
+    width: 150px;
+    height: 50px;
+    background-color: orangered;
+    border-radius: 20px;
+    color: white;
+    margin-top: 30px;
+}
+
+.btn {
+    width: 150px;
+    height: 50px;
+    background-color: orangered;
+    border-radius: 20px;
+    color: white;
+}
+
+#main {
+    width: 95%;
+}
+
+#section_1 {
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid white;
+    padding-left: 50px;
+}
+
+#heading {
+    border: 1px solid white;
+    padding: auto;
+}
+
+#section_2 {
+    margin-top: 100px;
+    display: flex;
+    justify-content: space-between;
+    border: 1px solid white;
+    padding-left: 50px;
+    margin-bottom: 100px;
+}
+
+#b {
+    float: left;
+    margin-top: 50px;
+    display: flex;
+    border: 1px solid white;
+}
+#z {
+    float: left;
+    width: 30%;
+    padding: right;
+    background-color: aliceblue;
+
+}
+
+#y {
+    float: left;
+    width: 30%;
+    padding: right;
+    background-color: orangered;
+}
+
+#x {
+    width: 60%;
+    height: 30%;
+    background-color: aliceblue;
+}
+
+.e {
+    background-color: orangered;
+    width: 50px;
+    float: left;
+    height: 30px;
+    border-radius: 20px;
+    color: white;
+    text-align: center;
+}
+
+div .aside {
+    margin-left: 50px;
+    border: 1px solid white;
+    padding: auto;
+}
+
+#me {
+    padding-left: 20px;
+}
+
+#c {
+    float: right;
+    padding-left: 400px;
+}
+
+
+#f {
+    margin-top: 50px;
+    display: flex;
+    margin-bottom: 20px;
+    justify-content: space-between;
+
+}
+
+.what {
+    margin-top: auto;
+    text-align: center;
+}
+
+.g {
+    background-color: #f0f0f0;
+    text-align: center;
+    border: 1px solid white;
+    padding: 30px;
+}
+
+.end {
+    background-color: orangered;
+    display: flex;
+    justify-content: space-between;
+    padding: 20px 100px;
+    color: white;
+}
+
+#i {
+    color: white;
+    padding-top: 10px;
+    padding-left: 20%;
+}
+
+.finish .logo {
+    color: white;
+    margin-bottom: 50px;
+}
+
+.finish {
+    display: flex;
+    justify-content: space-between;
+}
+
+#input_text {
+    border: 1px solid black;
+    border-radius: 20px;
+    height: 30px;
+}
+
+.btn1 {
+    width: 150px;
+    height: 40px;
+    background-color: white;
+    border-radius: 20px;
+    color: orangered;
+    margin-top: 10px;
+}
+
+#footer_link {
+    float: left;
+    position: relative;
+}
+
+#footer_link ul a {
+    text-decoration: none;
+    color: white;
+}
+
+#sub_footer_link {
+    float: left;
+    position: relative;
+}
+
+#sub_footer_link ul a {
+    text-decoration: none;
+    color: white;
+}
+
+#sub_footer_link ul li {
+    margin-bottom: 15px;
+}
+
+#footer_link ul li {
+    margin-bottom: 15px;
+}
+
+#subfooter {
+    float: left;
+    position: relative;
+}
+
+#footer_paragraph {
+    color: white;
+}
+
+#footer_form {
+    margin-top: 20px;
+}
+
+.finish {
+    background-color: black;
+    padding: 30px 100px;
+}
+
+#icons {
+    display: flex;
+}
+
+.item {
+    padding: 1em;
+}
+
+.item a {
+    text-decoration: none;
+}
+
+#go {
+    color: white;
+    padding-right: 20px;
+}
+
+#m {
+    padding-left: 60%;
+    color: white;
+
+}
+
+#btn3 {
+    width: 40px;
+    height: 30px;
+    background-color: orangered;
+    border-radius: 20px;
+    color: white;
+    margin-bottom: 50px;
+}
+
+footer {
+    margin-top: 100px;
+}
